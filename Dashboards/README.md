@@ -3,5 +3,4 @@
 ### Test Score
 -[Test Score Dashboard](https://public.tableau.com/app/profile/william.r.geesey.jr/viz/TestScore_17283124519100/Dashboard1)
 
-![Test Score Dashoard](images/Test Score Dashboard.png)
 ![Test Score Dashboard](images/Test Score Dashboard.png)
